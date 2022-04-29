@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bc07476abfa2d4837a3de61587ee8431
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Eddie
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0680023bd5dc545c295a3d3e00aa8be7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
